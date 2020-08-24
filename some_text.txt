@@ -9,3 +9,6 @@ git clone https://github.com/autotests-cloud/git-example.git
 git add -A 
 git commit -m "any message"
 git push
+
+4. Получить изменения с сервера
+git pull
