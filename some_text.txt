@@ -1,0 +1,11 @@
+hello, qa.guru!
+
+1. Скачали
+git clone https://github.com/autotests-cloud/git-example.git
+
+2. Что-то поделали, добавили текста
+
+3. Отправили на сервер
+git add -A 
+git commit -m "any message"
+git push
